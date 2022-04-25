@@ -1,0 +1,296 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 x64 6.3.5.8307
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Material__385
+Ka 0.94902 0.815686 0.815686
+Kd 0.94902 0.815686 0.815686
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome
+Ka 0.376471 0.376471 0.376471
+Kd 0.376471 0.376471 0.376471
+Ks 0.9 0.9 0.9
+illum 2
+Ns 5.65685
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__523
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd salon1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl glass
+Ka 0.0431373 0.184314 0.192157
+Kd 0.0431373 0.184314 0.192157
+Ks 0.9 0.9 0.9
+illum 2
+Ns 19.6983
+d 0.48
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__524
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+map_Kd salon2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__598
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+d 0.73
+map_Kd salon1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__648
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd vehicle_generic_chromeprts.tga
+map_bump 
+bump 
+map_opacity chrom.tga
+map_d chrom.tga
+refl 
+map_kS 
+map_kA chrom.tga
+map_Ns vehiclespecdot64.tga
+
+newmtl Material__593
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd tire.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__525
+Ka 0.94902 0.815686 0.815686
+Kd 0.94902 0.815686 0.815686
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2.14355
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__530
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd chrom.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__603
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__599
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+map_Kd salon1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__655
+Ka 1 1 1
+Kd 0 0.0627451 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd xvehicleenv128.tga
+map_bump 
+bump 
+map_opacity salon2.tga
+map_d salon2.tga
+refl 
+map_kS 
+map_kA salon2.tga
+map_Ns vehiclespecdot64.tga
+
+newmtl Material__654
+Ka 1 1 1
+Kd 0 0.0627451 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd xvehicleenv128.tga
+map_bump 
+bump 
+map_opacity salon2.tga
+map_d salon2.tga
+refl 
+map_kS 
+map_kA salon2.tga
+map_Ns vehiclespecdot64.tga
+
+newmtl Material__653
+Ka 1 1 1
+Kd 0 0.0627451 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd xvehicleenv128.tga
+map_bump 
+bump 
+map_opacity salon2.tga
+map_d salon2.tga
+refl 
+map_kS 
+map_kA salon2.tga
+map_Ns vehiclespecdot64.tga
+
+newmtl Material__652
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd vehicle_generic_chromeprts.tga
+map_bump 
+bump 
+map_opacity chrom.tga
+map_d chrom.tga
+refl 
+map_kS 
+map_kA chrom.tga
+map_Ns vehiclespecdot64.tga
+
+newmtl Material__651
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd vehicle_generic_chromeprts.tga
+map_bump 
+bump 
+map_opacity chrom.tga
+map_d chrom.tga
+refl 
+map_kS 
+map_kA chrom.tga
+map_Ns vehiclespecdot64.tga
